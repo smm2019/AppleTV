@@ -90,9 +90,9 @@ http://148.135.93.213:81/live.php?id=海南卫视
 #EXTINF:-1 tvg-id="90" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 http://148.135.93.213:81/live.php?id=西藏卫视
 #EXTINF:-1 tvg-id="111" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="卫视",鳳凰中文
-http://113.64.147.87:8081/hls/37/index.m3u8
+http://148.135.93.213:81/live.php?id=凤凰中文
 #EXTINF:-1 tvg-id="112" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="卫视",鳳凰資訊
-http://113.64.147.87:8081/hls/36/index.m3u8
+http://148.135.93.213:81/live.php?id=凤凰资讯
 #EXTINF:-1 tvg-id="113" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/fenghuangxianggang.png" group-title="卫视",鳳凰香港
 http://113.64.147.87:8081/hls/38/index.m3u8
 #EXTM3U
@@ -104,8 +104,8 @@ https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7
 https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
 #EXTINF:-1 tvg-id="AT-X" tvg-name="AT-X" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2880px-AT-X_logo.svg.png" group-title="日本",AT-X
 https://neetball.net/live/neet3.m3u8
-#EXTINF:-1 tvg-id="MTV Japan" tvg-name="MTV Japan" tvg-logo="" group-title="日本",MTV Japan
-http://jp.vthanhnetwork.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="Disney Junior Japan" tvg-name="Disney Junior Japan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png" group-title="日本",Disney Junior
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTM3U
 #EXTINF:-1 tvg-id="3" tvg-name="" tvg-logo="https://static.epg.best/us/FoxNews.us.png" group-title="英文",FOX News
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•央视「IPV6」",CCTV1「IPV6」
